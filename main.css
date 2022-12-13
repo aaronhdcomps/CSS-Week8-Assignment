@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: #181818;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+header {
+	margin: 0 5%;
+	padding: 1em 0;
+	color: #000000;
+	background-color: #ececec54;
+}
+
+main {
+	margin: 0 5%;
+}
+
+p {
+	font-size: 20px;
+	margin: 5px 0;
+	padding: 10px 20px;
+}
+
+.question {
+	background-color: #ecececee;
+	margin: 5px 0;
+	padding: 1em 20px;
+	line-height: 180%;
+	font-weight: 500;
+	height: 200px;
+}
